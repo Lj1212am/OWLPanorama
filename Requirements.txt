@@ -1,0 +1,17 @@
+
+# Prerequisites 
+A folder in the same path containing 4 synchronized videos captured from 4 perpendicular GoPro 10s, each video lasts no longer than 10 seconds. 
+Requirements 
+Python >= 3.8
+Matplotlib >= 3.8.2
+OpenCV >= 4.7
+
+
+# Hardware 
+Four GoPro 10 hero blacks
+Desktop with 13th generation Intel i7 and 32GB RAM. Note: Long panorama videos  could be ram consuming, if you come into a ram crash, consider to retry with short clips. 
+
+
+Link for Results:
+https://drive.google.com/file/d/1mlJ2SA1J458b4_AkVF-f3Q7lcMMK6O3o/view?usp=sharing
+
